@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Juan Cruz Favaro - [@JCFavaro](https://github.com/JCFavaro)
 
-## 🌱 I’m currently a Software Engineering student in third year.
+## 🌱 I’m currently a Software Engineering student in forth year.
 
 - 👀 I’m interested in backend development and cybersecurity
 <!--- :telescope: I’m looking for my first work experience!
