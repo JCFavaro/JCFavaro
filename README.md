@@ -17,7 +17,7 @@ Currently writing my thesis on FALCOPS, an Internal Developer Platform we built 
 - Platform engineering and developer experience
 - AI automation applied to real products
 - Cybersecurity and bug bounty hunting
-- Writing about what I build → [Behind the Deploy](https://behindthedeploy.com)
+- Writing about what I build → [Behind the Deploy](https://behindthedeploy.substack.com/)
 
 ### Contact
 
