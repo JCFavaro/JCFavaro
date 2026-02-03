@@ -1,6 +1,6 @@
 # Juan Cruz Favaro
 
-Platform Engineer & Team Lead at [Global Think Technology](https://globalthink.io) · Computer Engineering student at IUA, Córdoba 🇦🇷
+Platform Engineer & Team Lead at [Global Think Technology](https://globalthink.io) · Software Engineering student at IUA, Córdoba 🇦🇷
 
 ---
 
