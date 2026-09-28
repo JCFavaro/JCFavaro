@@ -19,12 +19,6 @@ I also lead technical initiatives around automation, observability, secure deliv
 * Researching web application security and vulnerability discovery
 * Finishing my Software Engineering degree at IUA
 
-### Tech
-
-`Python` · `TypeScript` · `GCP` · `Docker` · `LLMs` · `MCP` · `OpenTelemetry` · `CI/CD`
-
-I also work across backend systems, cloud infrastructure, observability and developer tooling depending on what the problem requires.
-
 ### Research & interests
 
 * AI agents & agentic systems
